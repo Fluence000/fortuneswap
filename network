@@ -110,7 +110,7 @@
    
     <div style="text-align: center">
         <h1>FORTUNE SWAP</h1>
-        <h2><span id="tokenName"> FortuneSwap</span> (<span class="tokenSymbol">FORTUNE</span>)</h2>
+        <h2><span id="tokenName"> FortuneSwapLONG</span> (<span class="tokenSymbol">FORTUNE</span>)</h2>
         <p><a target="_blank" href="https://bscscan.com/token/0xB37f602Be761d01e8f96E9eF072c1c87Cc46e13f" id="tokenAddress">0xB37f602Be761d01e8f96E9eF072c1c87Cc46e13f</a></p>
         <!-- Reserved in case you want to show decimals and total supply: Decimals <span id="#tokenDecimals"></span> Total supply <span id="#tokenSupply"></span>-->
         <p>Do not send BNB to the token contract!</p>
