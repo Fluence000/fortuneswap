@@ -1,6 +1,4 @@
-<html >
-<head>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Token sale page">
@@ -109,11 +107,7 @@
    
     <div style="text-align: center">
         <h1>FORTUNE SWAP</h1>
-        <h2>Fortune is a decentralised Binance Smartchain &
-            Ethereum based Web3 Mobile Wallet. The app works with
-            several crypto tokens and blockchain wallets. It enables
-            users to store, send and receive Smart Chain & Ethereum
-            based tokens on the go.
+        <h2>
         <h3>These functions are designed with a focus on user
             experience, providing a full suite of features for naive and
             seasoned enthusiasts.
@@ -121,7 +115,11 @@
             believe that ease of use is vital in the adoption of
             cryptocurrencies, the highly intuitive and user-friendly
             mobile application for accessing the blockchain.   
-        <h2><span id="tokenName"> FortuneSwap</span> (<span class="tokenSymbol">FORTUNE</span>)</h2>
+        <h2><span id="tokenName"> Fortune is a decentralised Binance Smartchain &
+            Ethereum based Web3 Mobile Wallet. The app works with
+            several crypto tokens and blockchain wallets. It enables
+            users to store, send and receive Smart Chain & Ethereum
+            based tokens on the go.</span> (<span class="tokenSymbol">FORTUNE</span>)</h2>
         <p><a target="_blank" href="https://bscscan.com/token/0xB37f602Be761d01e8f96E9eF072c1c87Cc46e13f" id="tokenAddress">0xB37f602Be761d01e8f96E9eF072c1c87Cc46e13f</a></p>
         <!-- Reserved in case you want to show decimals and total supply: Decimals <span id="#tokenDecimals"></span> Total supply <span id="#tokenSupply"></span>-->
         <p>Do not send BNB to the token contract!</p>
